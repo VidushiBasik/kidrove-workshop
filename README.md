@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kidrove — AI & Robotics Summer Workshop Landing Page
 
 A responsive React.js landing page + Express.js API for Kidrove's AI & Robotics Summer Workshop.
@@ -117,3 +118,6 @@ npm run dev
 My approach was to reference Kidrove's blue-first brand identity and build a page that's vibrant and child-friendly while staying clean and trustworthy enough for parents making a purchase decision. I decomposed the UI into small, focused React components with no external UI library so the design is fully custom. The form uses controlled inputs with real-time error clearing and a loading spinner during submission. The Express backend validates all fields server-side and returns structured error responses the frontend can map back to individual fields. 
 
 Given more time, I'd add a MongoDB integration with Mongoose for persistent enquiry storage, a confirmation email via Nodemailer, TypeScript across the codebase, proper unit tests with Jest/Vitest, and smooth scroll-triggered reveal animations using Intersection Observer to make the page feel more alive as users scroll.
+=======
+# kidrove-workshop
+>>>>>>> b48339bcf8e114b9fb2d7701b8d8c33e677d1f06
